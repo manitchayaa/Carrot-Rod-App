@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59017028252",
+    "project_id": "myeeveedata",
+    "storage_bucket": "myeeveedata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59017028252:android:8bb07489ecf604ff218359",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJ6a42PGFAoKZrHglFnYdkQhkrg71jnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
