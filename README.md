@@ -1,4 +1,24 @@
-# final_project
+# 🎮 Word Shooting Game
 
-[Link Video]([https://drive.google.com/file/d/1rQ4gcX61VUFKYG5iJ4es09jv6OxjhQ3U/view?usp=sharing](https://drive.google.com/file/d/1_512-VaZuLXuZaoK9yv15sljNeShyntx/view?usp=sharing))
+A mobile word shooting game developed with Flutter and Firebase. Players can sign in, battle monsters using vocabulary words, manage their profile, purchase in-game items, and track learned vocabulary.
 
+## 🎥 Demo Video
+
+- [Application Demo](https://drive.google.com/file/d/1_512-VaZuLXuZaoK9yv15sljNeShyntx/view?usp=sharing)
+
+## ✨ Features
+
+- User authentication
+- Adventure gameplay
+- Vocabulary-based combat
+- In-game item purchasing
+- Customizable username
+- Vocabulary library
+- Player profile management
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
